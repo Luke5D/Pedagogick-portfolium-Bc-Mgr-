@@ -1,7 +1,6 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
+Bakalářské studium <br>
+Lukáš Dutko (25637) <br>
+Ústav cizích zajyků <br>
 Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
